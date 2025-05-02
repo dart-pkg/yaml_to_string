@@ -7,9 +7,7 @@ homepage:
 repository: https://github.com/dart-pkg/yaml_to_string
 environment:
   sdk: ^3.7.2
-# executables:
-#  yaml-to-string: main
 dev_dependencies:
   test: ^1.25.15
-  output: ^2025.430.1731
+  output: ^2025.502.1958
   lints: ^5.1.1
